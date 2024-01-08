@@ -1,5 +1,5 @@
 {
-	"bindAddress": "0.0.0.0",
+        "bindAddress": "0.0.0.0",
 	"bindPort": 2001,
 	"publicAddress": "66.56.1.39",
 	"publicPort": 2001,
@@ -10,7 +10,7 @@
 	"game": {
 		"name": "Global Special Activities Center (S.A.C.)",
 		"password": "bearded",
-		"passwordAdmin": "bearded1",
+		"passwordAdmin": "BEARD1",
 		"admins" : [
 			"76561198116676124"
 		],
@@ -308,7 +308,12 @@
 				"modId": "5B1CD0C293D38C98",
 				"name": "ZBK Dep for Everon Extension by 4MMR",
 				"version": "1.0.19"
-			},  
+			},
+			{
+				"modId": "5994614FB5AD35C2",
+				"name": "RHIB",
+				"version": "1.0.13"
+			},    
 			{
 				"modId": "5B02128D896F7DE8",
 				"name": "STRYKER",
