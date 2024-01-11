@@ -45,8 +45,13 @@
 				"version": "2.9.2"
 			},
 			{
+				"modId": "5DAC39D2C3D4C8CD",
+				"name": "BetterInventory",
+				"version": "1.1.3"
+			},
+			{
 				"modId": "5DE0E3507EAC3129",
-				"name": "BetterInv-VanillaRightSide",
+				"name": "Dep_BetterInventory-RightSide",
 				"version": "1.0.0"
 			},
 			{
@@ -75,11 +80,6 @@
 				"version": "1.1.14"
 			},
 			{
-				"modId": "5DAC39D2C3D4C8CD",
-				"name": "BetterInventory",
-				"version": "1.1.3"
-			},
-			{
 				"modId": "5EE0EA9C49123D87",
 				"name": "No Supply Arsenals",
 				"version": "1.0.1"
@@ -88,11 +88,6 @@
 				"modId": "5EE6B7634AED1B9F",
 				"name": "No Supply Repairs",
 				"version": "1.0.2"
-			},
-			{
-				"modId": "5F340B3613F49010",
-				"name": "DarkerNights",
-				"version": "1.0.0"
 			},
 			{
 				"modId": "5B0D1E4380971EBD",
