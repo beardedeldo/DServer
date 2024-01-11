@@ -45,10 +45,11 @@
 				"version": "2.9.2"
 			},
 			{
-				"modId": "5DE0E3507EAC3129",
-				"name": "Dep_BetterInventory-RightSide",
-				"version": "1.0.0"
+				"modId": "5DAC39D2C3D4C8CD",
+				"name": "BetterInventory",
+				"version": "1.1.3"
 			},
+			{
 			{
 				"modId": "595F2BF2F44836FB",
 				"name": "RHS - Status Quo",
@@ -295,16 +296,6 @@
 				"version": "1.0.4"
 			},
 			{
-				"modId": "5E390AF3BADACEC5",
-				"name": "Everon Extension by 4MMR",
-				"version": "1.0.91"
-			},
-			{
-				"modId": "5B1CD0C293D38C98",
-				"name": "ZBK Dep for Everon Extension by 4MMR",
-				"version": "1.0.19"
-			},
-			{
 				"modId": "5994614FB5AD35C2",
 				"name": "RHIB",
 				"version": "1.0.13"
@@ -313,8 +304,17 @@
 				"modId": "5B02128D896F7DE8",
 				"name": "STRYKER",
 				"version": "1.1.32"
-			}										
-			
+			},
+			{
+				"modId": "5F1EE615E7AE3106",
+				"name": "BGONE",
+				"version": "1.1.13"
+			},										
+			{
+				"modId": "604E9E8B40A762D1",
+				"name": "Mortars",
+				"version": "1.0.3"
+			}
 			
 			]
 
