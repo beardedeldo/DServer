@@ -40,6 +40,16 @@
 		},
 		"mods": [
 			{
+				"modId": "5D6EBC81EB1842EF",
+				"name": "Enfusion Persistence Framework",
+				"version": "0.6.1"
+			},
+			{
+				"modId": "5D6EA74A94173EDF",
+				"name": "Enfusion Database Framework",
+				"version": "0.6.1"
+			},
+			{
 				"modId": "59651354B2904BA6",
 				"name": "BetterHitsEffects",
 				"version": "2.9.2"
@@ -134,10 +144,21 @@
 				"name": "SpaceCore",
 				"version": "1.1.12"
 			},
-			
-
-
-
+			{
+				"modId": "5EE969D5E6047BC4",
+				"name": "CTI_ScoringSystem",
+				"version": "1.0.9"
+			},
+			{
+				"modId": "5964E0B3BB7410CE",
+				"name": "Odin Game Master Additions",
+				"version": "1.0.6"
+			},
+			{
+				"modId": "5F207DD6271E2799",
+				"name": "Collectable Intel & Phones",
+				"version": "1.0.1"
+			},
 			{
 				"modId": "5CF0C3158AB2337E",
 				"name": "TF Mattock Uniforms",
@@ -153,9 +174,6 @@
 				"name": "ZELIKS CHARACTER",
 				"version": "1.1.6"
 			},
-			
-			
-			
 			{
 				"modId": "5ABD0CB57F7E9EB1",
 				"name": "RIS Laser",
@@ -242,31 +260,6 @@
 				"version": "1.0.15"
 			},
 			{
-				"modId": "5E983E9EA4E38915",
-				"name": "Luminary-Equipment",
-				"version": "1.0.43"
-			},
-			{
-				"modId": "5ED505ADB316AE5C",
-				"name": "Luminary - Weapons",
-				"version": "1.0.36"
-			},
-			{
-				"modId": "5E9E09F1B2B9C666",
-				"name": "Attainment-Vehicles",
-				"version": "1.0.15"
-			},
-			{
-				"modId": "5E98165FF6BC17A1",
-				"name": "Asendancy-Transport",
-				"version": "1.0.11"
-			},
-			{
-				"modId": "5EB4F39B97B59933",
-				"name": "Luminary-Concealment",
-				"version": "1.0.10"
-			},
-			{
 				"modId": "5E8CA06EE59E7F13",
 				"name": "Eminence-RUSEQWPNS", 
 				"version": "1.0.23"
@@ -301,9 +294,6 @@
 				"name": "DarkGru Operators Pack",
 				"version": "0.0.104"
 			},
-			
-			
-			
 			{
 				"modId": "5D9ECAD071E9ECBC",
 				"name": "Humvee Variants",
@@ -345,15 +335,28 @@
 				"version": "1.0.14"
 			},    
 			{
-				"modId": "5DF42518F3C3210D",
-				"name": "M270_MLRS",
-				"version": "1.0.10"
-			},    
-			{
 				"modId": "5B02128D896F7DE8",
 				"name": "STRYKER",
-				"version": "1.1.34"
+				"version": "1.1.32"
+			},
+			{
+				"modId": "5EAEBEE6267EE47D",
+				"name": "MH-6 MELB",
+				"version": "1.0.33"
+			},
+			{
+				"modId": "5E98165FF6BC17A1",
+				"name": "Ascendancy",
+				"version": "1.0.11"
+			},
+			{
+				"modId": "5C961A93A16EB866",
+				"name": "Royal Marine Vehicle Pack",
+				"version": "1.1.28"
 			}
+			
+			
+			
 			
 			]
 
