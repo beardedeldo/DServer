@@ -40,14 +40,9 @@
 		},
 		"mods": [
 			{
-				"modId": "5D6EBC81EB1842EF",
-				"name": "Enfusion Persistence Framework",
-				"version": "0.6.1"
-			},
-			{
-				"modId": "5D6EA74A94173EDF",
-				"name": "Enfusion Database Framework",
-				"version": "0.6.1"
+				"modId": "5EF248658E676E03",
+				"name": "4MMR Radio",
+				"version": "1.0.1"
 			},
 			{
 				"modId": "59651354B2904BA6",
@@ -63,11 +58,6 @@
 				"modId": "5DAC39D2C3D4C8CD",
 				"name": "BetterInventory",
 				"version": "1.1.3"
-			},
-			{
-				"modId": "5DE0E3507EAC3129",
-				"name": "BetterInventoryRight",
-				"version": "1.0.0"
 			},
 			{
 				"modId": "5ECC81CFB5028058",
