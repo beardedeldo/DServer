@@ -45,6 +45,11 @@
         "version": ""
       },
       {
+	"modId": "5F1911B5C78C249B",
+	"name": "HK416 - 24 variants",
+	"version": ""
+      },
+      {
         "modId": "5DAC39D2C3D4C8CD",
         "name": "BetterInventory",
         "version": ""
@@ -120,6 +125,26 @@
         "version": ""
       },
       {
+        "modId": "5C6CC278BBBFAA71",
+        "name": "Functional Knives",
+        "version": ""
+      },
+      {
+        "modId": "5DF14A2FD0C42CC0",
+        "name": "MAKO AK 105 ZENTICO",
+        "version": ""
+      },
+      {
+        "modId": "5E39644AB07EA789",
+        "name": "SPECTRE SVD",
+        "version": ""
+      },
+      {
+        "modId": "5E52DACAC959DE4D",
+        "name": "ANZIO 20MM",
+        "version": ""
+      },
+      {
         "modId": "5AF6E0F075D79473",
         "name": "M249 Scope Rails",
         "version": ""
@@ -128,6 +153,11 @@
         "modId": "5EE0EA9C49123D87",
         "name": "No Suppy Arsenals",
         "version": ""
+      },
+      {
+	"modId": "5EE6B7634AED1B9F",
+	"name": "No Supply Repairs",
+	"version": ""
       },
       {
         "modId": "5E4F1725CF7FD63A",
@@ -417,6 +447,11 @@
       {
 	"modId": "5EE969D5E6047BC4",
 	"name": "CTI_ScoringSystem",
+	"version": ""
+      },
+      {
+	"modId": "60425AF216506519",
+	"name": "DarkGru PLA Faction",
 	"version": ""
       },
       {
